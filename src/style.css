@@ -1,0 +1,23 @@
+/* button{
+    background-color: lightgreen;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+    width: 20%;
+    /* justify-content: center; */
+    align-items: center;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+}
+.container{
+    align-items: center;
+    margin:20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
