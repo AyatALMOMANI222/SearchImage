@@ -7,8 +7,9 @@ function Imagelist({image}) {
     return <Imageshow image={image}/>
   })
     return(
-        <div>
+        <div className="image_list">
 {renderedImage}
+
         </div>
     )
 }

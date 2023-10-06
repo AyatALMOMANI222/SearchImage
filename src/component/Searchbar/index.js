@@ -12,8 +12,8 @@ setTerm(event.target.value)
   
     return(
         <div>
-            <form onSubmit={handleformSubmit}>
-                <input value={term} onChange={handleChange}/>
+            <form  onSubmit={handleformSubmit}>
+                <input className="search_bar" value={term} onChange={handleChange}/>
             </form>
 
  </div>
